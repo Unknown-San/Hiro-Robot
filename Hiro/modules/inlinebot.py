@@ -6,7 +6,7 @@
 
 # This file is part of Shasa Robot(Telegram Bot)
 
-
+'''
 import datetime
 import re
 import time
@@ -1023,3 +1023,4 @@ def generate_time(to_find: str, findtype: List[str]) -> str:
         result = None
 
     return result
+    '''
