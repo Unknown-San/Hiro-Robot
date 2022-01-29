@@ -1,4 +1,4 @@
-# Copyright (C) 2021 TheHamkerCat & TeamShasaRoBot
+# Copyright (C) 2021 TheHamkerCat & TeamRoBot
 
 # Ported some parts From WilliamButcherBot.
 # Pokedex Inline Credit Red-Aura[Madepranav]
@@ -33,11 +33,11 @@ from search_engine_parser import GoogleSearch
 from tswift import Song
 from youtubesearchpython import VideosSearch
 
-from ShasaBot.conf import get_str_key
-from ShasaBot.utils.inlinehelper import *
-from ShasaBot.pyrogramee.fetch import fetch
-from ShasaBot.pyrogramee import json_prettify
-from ShasaBot import pbot as app
+from Hiro.conf import get_str_key
+from Hiro.utils.inlinehelper import *
+from Hiro.pyrogramee.fetch import fetch
+from Hiro.pyrogramee import json_prettify
+from Hiro import pbot as app
 
 OPENWEATHERMAP_ID = get_str_key("OPENWEATHERMAP_ID", "")
 TIME_API_KEY = get_str_key("TIME_API_KEY", required=False)
