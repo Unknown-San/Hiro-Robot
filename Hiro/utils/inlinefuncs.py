@@ -1,4 +1,4 @@
-import json
+'''import json
 import sys
 from random import randint
 from time import time
@@ -362,3 +362,4 @@ async def pokedexinfo(answers, pokemon):
         )
     )
     return answers
+'''
