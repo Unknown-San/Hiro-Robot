@@ -1,4 +1,4 @@
-import traceback
+'''import traceback
 
 from Hiro import pbot as app
 from Hiro.utils.pluginhelp import fetch
@@ -358,3 +358,4 @@ async def inline_query_handler(client, query):
     except Exception as e:
         e = traceback.format_exc()
         print(e, " InLine")
+'''
