@@ -34,7 +34,7 @@ from tswift import Song
 from youtubesearchpython import VideosSearch
 
 from Hiro.conf import get_str_key
-from Hiro.utils.inlinehelper import *
+from Hiro.utils.inlinefuncs import *
 from Hiro.pyrogramee.fetch import fetch
 from Hiro.pyrogramee import json_prettify
 from Hiro import pbot as app
