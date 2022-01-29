@@ -110,7 +110,7 @@ HELP_MSG = "Click the button below to get help manu in your pm."
 START_MSG = "I'm awake already!\n<b>Haven't slept since:</b> <code>{}</code>"
 
 PM_START_TEXT = """
-🌸═══════「 [{}](https://telegra.ph/file/ccc9b76512bfdda7036f0.jpg) 」═══════🌸
+🌸══════「 [{}](https://telegra.ph/file/ccc9b76512bfdda7036f0.jpg) 」══════🌸
 *ʜᴇʏ! {},*
 *ɪ ᴀᴍ 𝐍𝐞𝐳𝐮𝐤𝐨 ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴀᴅᴠᴀɴᴄᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ꜱᴇᴠᴇʀᴀʟ ꜱᴘᴇᴄɪᴀʟɪᴛɪᴇꜱ.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
